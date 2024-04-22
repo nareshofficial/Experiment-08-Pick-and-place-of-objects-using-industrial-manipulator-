@@ -1,4 +1,6 @@
 # Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-
+NAME:NARESH.P.S
+REG:212223040127
 
 ### Aim :
       To pick and place a regular shape using two finger gripper on the conveyor belt 
@@ -99,17 +101,28 @@ and click on the connect icon
 
 
 ### output video and screen shots of pick and place 
+#### Program
+![WhatsApp Image 2024-04-22 at 13 36 32_ebcdd1d6](https://github.com/KesavDeepak/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139336019/eb6b277f-1db6-41d3-babb-1ff0c81b7d61)
+![WhatsApp Image 2024-04-22 at 13 36 33_b1c8e4ad](https://github.com/KesavDeepak/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139336019/15a84c71-6a28-410b-a63e-6fa035502ac8)
+![WhatsApp Image 2024-04-22 at 13 36 33_237210da](https://github.com/KesavDeepak/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139336019/35def62f-8996-49d8-9deb-c506d906c693)
+![WhatsApp Image 2024-04-22 at 13 36 34_d07d6589](https://github.com/KesavDeepak/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139336019/b6d6df07-986c-47bf-86ee-965692fde443)
 
+#### Robot Action
 
+![WhatsApp Image 2024-04-22 at 13 36 28_47b653f2](https://github.com/KesavDeepak/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139336019/45f35e03-7e01-4aba-9825-7cb8b5210089)
+![WhatsApp Image 2024-04-22 at 13 36 29_ab10191c](https://github.com/KesavDeepak/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139336019/19828a3c-4fa5-4abe-a0f8-d307037d22e4)
+![WhatsApp Image 2024-04-22 at 13 36 29_5a3b4a9a](https://github.com/KesavDeepak/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139336019/fc4c8815-5f4f-4bbf-8ec4-7b54714743ed)
 
+![WhatsApp Image 2024-04-22 at 13 36 30_c08cf293](https://github.com/KesavDeepak/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139336019/6cc056f1-c78a-4ac2-84a2-aaa432a414fa)
+![WhatsApp Image 2024-04-22 at 13 36 30_ddaa0b04](https://github.com/KesavDeepak/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139336019/9328a0af-e4ca-416c-ba4e-549beaf33216)
 
-
-
+![WhatsApp Image 2024-04-22 at 13 36 31_62b98783](https://github.com/KesavDeepak/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139336019/d98bf945-cdfd-4703-913f-10d40a4c09ec)
+![WhatsApp Image 2024-04-22 at 13 36 31_3eafac98](https://github.com/KesavDeepak/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139336019/bf2da26f-2093-45f0-b42d-0f18373f6960)
+![WhatsApp Image 2024-04-22 at 13 36 31_bb2eb55b](https://github.com/KesavDeepak/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139336019/60583fe2-949a-4192-ba44-5d7d369447fd)
 
 ### Results: 
 
-
-
+Thus, the experiment to pick and place a regular shape using two finger gripper on the conveyor belt is sucessfully completed.
 
 
 
